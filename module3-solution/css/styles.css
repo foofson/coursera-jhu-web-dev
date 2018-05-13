@@ -1,3 +1,4 @@
+/* HEADER */
 #collapsable_nav {
   margin-right: -16px;
   margin-left: -16px;
@@ -22,3 +23,22 @@
     visibility: hidden;
   }
 }
+/* END HEADER */
+
+/* MAIN PAGE */
+#main_content {
+  width: 90%;
+}
+
+#menu_title {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#menu_content {
+  height: 1000px;
+  margin: 20px;
+  padding: 15px;
+  background-color: #999999;
+}
+/* END MAIN PAGE */
